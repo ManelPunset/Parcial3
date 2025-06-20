@@ -4,8 +4,8 @@ Alejandro Garcia Navarro
 
 Empleados:
 
-img/Captura de pantalla 2025-06-20 035827.png
+img/Captura1.png
 
 Empleado:
 
-img/Captura de pantalla 2025-06-20 040258.png
+img/Captura2.png
