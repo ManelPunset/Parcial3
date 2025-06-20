@@ -3,7 +3,9 @@
 Alejandro Garcia Navarro
 
 Empleados:
-img/D:\GITHUB REPOSITORIOS\Parcial3-1\Captura de pantalla 2025-06-20 035827.png
+
+![Captura de pantalla Empleados](img/Captura%20de%20pantalla%202025-06-20%20035827.png)
 
 Empleado:
-img/D:\GITHUB REPOSITORIOS\Parcial3-1\Captura de pantalla 2025-06-20 040258.png
+
+![Captura de pantalla Empleado](img/Captura%20de%20pantalla%202025-06-20%20040258.png)
