@@ -4,8 +4,8 @@ Alejandro Garcia Navarro
 
 Empleados:
 
-img/Captura1.png
+![alt](D:\GITHUB REPOSITORIOS\Parcial3-1\Captura1.png)
 
 Empleado:
 
-img/Captura2.png
+![alt](D:\GITHUB REPOSITORIOS\Parcial3-1\Captura2.png)
